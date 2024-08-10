@@ -3,14 +3,12 @@
 
 ![https://github.com/sergiovez](VezDevCode.png)
 
-Hello! I'm Sergio Vez, a passionate aspiring Full-Stack developer and a technology blockchain enthusiast. This is my space where I share my journey in the world of web development and blockchain technology.
-
+Hello! I'm Sergio Vez, a passionate aspiring Full-Stack developer and this is my space where I share my journey in the world of web development.
 <br>
 
 ## About this Repository 📁
 
 In this repository, you'll find the source code for my personal website, where I showcase my projects, skills, and my evolution as a developer. My goal is to create innovative web solutions and explore the exciting possibilities of blockchain technology.
-
 <br>
 
 ## Technologies Used 🛠️
@@ -31,13 +29,11 @@ In this repository, you'll find the source code for my personal website, where I
 - Front-End Frameworks: React, Astro
 - Database: SQL
 - Version control: Git
-
 <br>
 
 ## Relevant Links 🌐
 
 If you're interested in exploring my progress in the world of Full-Stack development and blockchain, I invite you to take a look at some of my most relevant repositories:
-
 <br>
 
 ## Contact Me 📫
@@ -52,10 +48,10 @@ If you have questions, suggestions, or just want to chat about web development o
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiovez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiovez&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiovez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiovez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
 
-I hope you enjoy exploring my repository! Thanks for visiting! 👋
+I hope you enjoyed exploring my repository! Thanks for visiting! 👋
