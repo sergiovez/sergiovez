@@ -44,9 +44,9 @@ If you're interested in exploring my progress in the world of Full-Stack develop
 
 If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/ferran-coll-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/sergio-vez)
 </br>
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=sergiovez13%40gmail.com&labelColor=black&color=%23EA4335)](mailto:sergiovez13@gmail.com)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
