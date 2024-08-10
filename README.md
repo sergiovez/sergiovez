@@ -17,19 +17,19 @@ In this repository, you'll find the source code for my personal website, where I
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() 
 [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() 
 [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() 
-[![Node.JS](https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=blue)]() 
-[![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=blue)]() 
-[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=blue)]() 
-[![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=black&color=blue)]() 
+[![Node.JS](https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=6DA55F)]() 
+
+[![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=black&color=%23092E20)]() 
+[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2320232a)]() 
+[![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=black&color=%232C2052)]() 
 [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=blue)]() 
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05033)]() 
 
 - Web Development: HTML, CSS, JavaScript
 - Backend Technologies: Python, Node.JS, Django
 - Front-End Frameworks: React, Astro
 - Database: SQL
 - Version control: Git
-<br>
 
 ## Relevant Links 🌐
 
