@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Sergio Vez ✌🏼</h1>
 </div>
 
-![https://github.com/sergiovez](VezDevCode.png)
+![https://github.com/sergiovez](VezDevCode_EN.png)
 
 Hello! I'm Sergio Vez, a passionate aspiring Full-Stack developer and this is my space where I share my journey in the world of web development.
 <br>
