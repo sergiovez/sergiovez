@@ -43,7 +43,7 @@ If you have questions, suggestions, or just want to chat about web development o
 </br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=sergiovez13%40gmail.com&labelColor=black&color=%23EA4335)](mailto:sergiovez13@gmail.com)
 
-## ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics ⚙️
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
