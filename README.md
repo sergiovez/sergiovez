@@ -1,3 +1,4 @@
-# Este es mi primer fichero markdown
-
-Hola que tal esto es un ejemplo de mi primer fichero markdown para personalizar mi perfil de GitHub
+<div align="center">
+<h1 align="center">Hola, soy Sergio Vez ✌🏼</h1>
+</div>
+![https://github.com/sergiovez](VezDevCode.png)
