@@ -52,8 +52,8 @@ If you have questions, suggestions, or just want to chat about web development o
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiovez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiovez&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiovez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiovez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
