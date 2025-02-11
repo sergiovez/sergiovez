@@ -23,7 +23,6 @@ In this repository, you'll find the source code for my personal website, where I
 [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=black&color=%232C2052)]() 
 [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05033)]() 
-[![SQL](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05033)]() 
 
 - Frontend Technologies: HTML, CSS, JavaScript, TypeScript
 - Backend Technologies: Python, Java, Node.JS, SQL, Rust
