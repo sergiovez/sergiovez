@@ -23,21 +23,22 @@ In this repository, you'll find the source code for my personal website, where I
 [![Astro](https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=white&labelColor=black&color=%232C2052)]() 
 [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05033)]() 
+[![SQL](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05033)]() 
 
-- Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python, Node.JS, Django
-- Front-End Frameworks: React, Astro
-- Database: SQL
+- Frontend Technologies: HTML, CSS, JavaScript, TypeScript
+- Backend Technologies: Python, Java, Node.JS, SQL, Rust
+- Frontend Frameworks: React, Astro, Angular, VueJS
+- Backend Frameworks: Django, Streamlit
 - Version control: Git
 
 ## Relevant Links 🌐
 
-If you're interested in exploring my progress in the world of Full-Stack development and blockchain, I invite you to take a look at some of my most relevant repositories:
+If you're interested in exploring my progress in the world of Full-Stack development, I invite you to take a look at some of my most relevant repositories:
 <br>
 
 ## Contact Me 📫
 
-If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
+If you have questions, suggestions, or just want to chat about web development, don't hesitate to get in touch with me through:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/sergio-vez)
 </br>
